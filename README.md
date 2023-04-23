@@ -1,2 +1,2 @@
 # Subdomain-Checker
-basic and fast subdomain checker
+Basic and Fast Subdomain checker
